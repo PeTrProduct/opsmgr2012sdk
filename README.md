@@ -1,0 +1,2 @@
+# System Center 2012 - Operations Manager Managed Module Samples
+This sample Visual Studio 2010 project contains samples that illustrate how you can create custom module types for System Center 2012 - Operations Manager. The project contains the C# code for creating data source, write action, probe and condition detection modules. It also contains management pack definition for the custom modules.
